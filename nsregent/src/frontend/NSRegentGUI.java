@@ -57,7 +57,7 @@ public class NSRegentGUI extends JFrame {
 	    serviceLabel.setBounds(30, 270, 100, 20);
 	    add(serviceLabel);
 
-	    String[] services = {"Select Service", "Recruitment", "Endorsement", "Campaign"};
+	    String[] services = {"Select Service", "rebranding", "single score", "Campaign"};
 	    JComboBox<String> serviceComboBox = new JComboBox<>(services);
 	    serviceComboBox.setBounds(30, 295, 480, 35);
 	    add(serviceComboBox);

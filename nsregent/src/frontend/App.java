@@ -6,7 +6,6 @@ public class App {
 		NSRegentGUI gui = new NSRegentGUI();
 		
 		gui.setVisible(true);
-		
-		
+	
 	}
 }
